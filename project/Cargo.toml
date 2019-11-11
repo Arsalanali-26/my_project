@@ -1,0 +1,13 @@
+[package]
+name = "project"
+version = "0.1.0"
+authors = ["arsalan.ali"]
+edition = "2018"
+description = "My First Library"
+licence = "MIT"
+repository = "https://github.com/Arsalanali-26/my_project"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
