@@ -1,0 +1,54 @@
+[2019-11-11T11:52:47Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:52:48Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:05Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+error: expected argument name, found `{`
+ --> <stdin>:1:23
+  |
+1 | impl Dummy { fn main( { unimplemented!() } }
+  |                       ^ expected argument name
+
+error: expected one of `async`, `const`, `crate`, `default`, `existential`, `extern`, `fn`, `pub`, `type`, `unsafe`, or `}`, found `)`
+ --> <stdin>:1:44
+  |
+1 | impl Dummy { fn main( { unimplemented!() } }
+  |                                            ^ expected one of 11 possible tokens here
+
+[2019-11-11T11:53:05Z ERROR rls::actions::hover] format_method: error: Failed, input: "impl Dummy { fn main( { unimplemented!() } }"
+[2019-11-11T11:53:23Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:29Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:35Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:35Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:35Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:36Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:36Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:37Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:37Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:37Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:38Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:40Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:42Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:45Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:46Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:47Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:49Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:49Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:50Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:51Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:54Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:53:55Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:01Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:02Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:10Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:12Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:20Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:22Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:22Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:38Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:54:51Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:57:22Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:57:23Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:57:23Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:57:59Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:58:07Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:58:07Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`
+[2019-11-11T11:58:07Z ERROR rls::actions] failed to fetch project model, using fallback: failed to read `c:\Users\arsalan.ali\Desktop\piaic-iot\my_project\Cargo.toml`

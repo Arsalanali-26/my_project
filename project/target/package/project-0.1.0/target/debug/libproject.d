@@ -1,0 +1,1 @@
+C:\Users\arsalan.ali\Desktop\piaic-iot\my_project\project\target\package\project-0.1.0\target\debug\libproject.rlib: C:\Users\arsalan.ali\Desktop\piaic-iot\my_project\project\target\package\project-0.1.0\src\lib.rs
